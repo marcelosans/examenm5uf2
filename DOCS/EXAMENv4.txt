@@ -1,0 +1,9 @@
+git branch p1
+git checkout p1
+-- MODIFICO EL INDEX--
+git add index.html 
+git commit -m "Modificar una parte index"
+git push origin p1
+git checkout origin main 
+git push origin main
+
