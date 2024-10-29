@@ -1,0 +1,19 @@
+nano index.html
+
+procedo a cambiar cosas p1 
+
+git add index.html
+
+git commit -m "cambiar index azul p1"
+
+git push origin main 
+
+para p2 
+
+git pull origin main 
+
+sus comandos p2
+
+git add ./
+git commit -m "traduir index"
+git push origin main
